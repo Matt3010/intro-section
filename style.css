@@ -14,7 +14,7 @@ body {
 
 .icon_menu{
 
-display: none;    
+display: none;
     }
 .header {
   background-color: transparent;
@@ -250,7 +250,7 @@ opacity: 1;
 
 .icon_menu{
 display: block;
-margin-left: 70%;
+margin-left: 60%;
 
 }
 
